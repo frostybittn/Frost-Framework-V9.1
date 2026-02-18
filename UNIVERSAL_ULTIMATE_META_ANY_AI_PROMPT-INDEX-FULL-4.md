@@ -6387,10 +6387,6 @@ const S034_preview = {
 
 ---
 
-## ⭐️ **MORE APPENDICES/UPDATES/EMERGENCES** ✨️
-
----
-
 ## 📚 **TABLE OF CONTENTS**
 
 | Section | Description |
